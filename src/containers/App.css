@@ -1,0 +1,11 @@
+/* @font-face {
+    font-family: 'SEA LOGO FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEA LOGO FONT'), url('SEGA.woff') format('woff')
+} */
+h1 {
+    font-family: 'Audiowide', cursive;
+    font-weight: 200;
+    color: wheat;
+}
